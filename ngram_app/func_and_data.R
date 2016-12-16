@@ -1,7 +1,7 @@
 
-#two_words<-readRDS("two.rds")
-#three_words<-readRDS("three.rds")
-#four_words<-readRDS("four.rds")
+two_words<-readRDS("two.rds")
+three_words<-readRDS("three.rds")
+four_words<-readRDS("four.rds")
 five_words<-readRDS("five.rds")
 #six_words<-readRDS("six.rds")
 

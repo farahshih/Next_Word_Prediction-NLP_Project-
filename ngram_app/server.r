@@ -7,5 +7,5 @@ source("func_and_data.R")
 
 shinyServer(
   function(input, output){
-    output$outputWord<-renderPrint({ngram_model(input$InputS,4)})
+    output$outputWord<-renderPrint({ngram_model(input$InputS,input$ChooseN)})
   })

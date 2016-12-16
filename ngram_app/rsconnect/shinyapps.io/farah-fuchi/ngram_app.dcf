@@ -2,6 +2,6 @@ name: ngram_app
 account: farah-fuchi
 server: shinyapps.io
 appId: 144920
-bundleId: 648778
+bundleId: 652224
 url: https://farah-fuchi.shinyapps.io/ngram_app/
-when: 1481674616.37216
+when: 1481871907.96887
